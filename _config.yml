@@ -9,7 +9,7 @@ name: Juan Antonio Barberà
 description: Data Scientist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:
+avatar: https://avatars1.githubusercontent.com/u/8489416?s=460&u=7d4ea07509c58a1112197284b606b830f33b473a&v=4
 #
 # Flags below are optional
 #
@@ -17,12 +17,12 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:cychess@gmail.com
+  email: cychess@gmail.com
   facebook:
   flickr:
   github: github.com/cychess
   instagram:
-  linkedin:https://www.linkedin.com/in/juan-antonio-barbera/
+  linkedin: https://www.linkedin.com/in/juan-antonio-barbera/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
